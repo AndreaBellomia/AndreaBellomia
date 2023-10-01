@@ -4,7 +4,11 @@ Hi 👋 My name is Andrea Bellomia
 Full-Stack Engineer
 -------------------
 
-🌐 Web Enthusiast 🌟 | 🐍 Python Lover 🚀 | 👨‍💻 Self-taught developer since childhood! ✨ In life, I live by the motto "If you can dream it, you can do it." This mantra constantly drives me to seek new challenges and prove that the only real limit is imagination and the will to act. Exploring various development domains over the years, I've found my true passion in web development. While Python is my go-to language for freedom and flexibility, I'm constantly on the lookout for new things to learn and expand my knowledge, whether it's diving into Java, C#, or any exciting technology out there. Let's code the future together! 💻📚 #AlwaysLearning#EverythingIsPossible #OpenMind 🌟
+🌐 Web Enthusiast 🌟 | 🐍 Python Lover 🚀 | 👨‍💻 Self-taught developer since childhood! ✨ 
+
+In life, I live by the motto "If you can dream it, you can do it." This mantra constantly drives me to seek new challenges and prove that the only real limit is imagination and the will to act. 
+
+Exploring various development domains over the years, I've found my true passion in web development. While Python is my go-to language for freedom and flexibility, I'm constantly on the lookout for new things to learn and expand my knowledge, whether it's diving into Java, C#, or any exciting technology out there. Let's code the future together! 💻📚 #AlwaysLearning#EverythingIsPossible #OpenMind 🌟
 
 * 🌍  I'm based in Sicily, Ragusa.
 * 🖥️  See my portfolio at [andreabellomia.com](http://andreabellomia.com)
