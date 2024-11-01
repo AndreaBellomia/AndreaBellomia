@@ -13,8 +13,8 @@ Exploring various development domains over the years, I've found my true passion
 * 🌍  I'm based in Sicily, Ragusa.
 * 🖥️  See my portfolio at [andreabellomia.com](http://andreabellomia.com)
 * ✉️  You can contact me at [andreabellomia2001@icloud.com](mailto:andreabellomia2001@icloud.com)
-* 🚀  I'm currently working on [Liqi](http://liqi.it/)
-* 🧠  I'm learning Java, C++, Python and JS
+* 🚀  I'm currently working on [Astrorei](https://astrorei.io/)
+* 🧠  I’m always eager to learn new things.
 * ⚡  I'm not the Batman you deserve, but I'm definitely the GitHub user you need! 🦇
 
 ### Skills
